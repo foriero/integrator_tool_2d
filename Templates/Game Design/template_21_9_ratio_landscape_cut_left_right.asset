@@ -10,13 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 751e245423faf4546927a022ef5dc4b4, type: 3}
-  m_Name: template_19_9_ratio_landscape_cut_left_right
+  m_Name: template_21_9_ratio_landscape_cut_left_right
   m_EditorClassIdentifier: 
-  templateName: template_19_9_ratio_landscape_cut_left_right
-  description: template_19_9_ratio_landscape_cut_left_right
+  templateName: template_21_9_ratio_landscape_cut_left_right
+  description: template_21_9_ratio_landscape_cut_left_right
   exportType: 1
   artboardVariantsFile: {fileID: 0}
-  illustratorTemplateFile: template_19_9_ratio_landscape_cut_left_right
-  resolution: {x: 4750, y: 2250}
+  resolution: {x: 5250, y: 2250}
   import: 10
   type: 0
